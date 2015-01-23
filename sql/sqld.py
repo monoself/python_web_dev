@@ -1,4 +1,4 @@
-# SELETE statement
+# SELECT statement
 
 import sqlite3
 
